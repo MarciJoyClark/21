@@ -1,0 +1,6 @@
+F:\Users\Marcsquiskeeiey\TechAcademy\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+F:\Users\Marcsquiskeeiey\TechAcademy\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojResolveAssemblyReference.cache
+F:\Users\Marcsquiskeeiey\TechAcademy\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+F:\Users\Marcsquiskeeiey\TechAcademy\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+F:\Users\Marcsquiskeeiey\TechAcademy\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+F:\Users\Marcsquiskeeiey\TechAcademy\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
